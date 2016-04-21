@@ -3165,8 +3165,8 @@ hr.separate_port {
     line-height: 0;
     cursor: pointer;
     border-radius: 50%;
-    right: 25%;
-    bottom: 150px;
+    right: 37%;
+    top: 250px;
     display:block;
 }
 #tabs i {
